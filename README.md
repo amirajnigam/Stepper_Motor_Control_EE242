@@ -1,2 +1,2 @@
-# Prototype-Development-using-LSM303-ADC-and-Stepper-Motor-on-Raspberry-Pi-4
+## Prototype Development using LSM303 ADC and Stepper Motor on Raspberry Pi 4
 Designed  prototype system using Raspberry Pi, PWM motor drive, NEMA stepper motor, LSM303 sensor and an ADC module with a potentiometer. Additionally, to operate this prototype system by changing the output to the ADC input through potentiometer. The stepper motor will operate at different duty cycle and the stepper motor rotation is recognized and recorded by LSM303 accelerometer and Magnetometer. Implementation of FFT to perform validation of data and efficiency is calculated through power spectrum analysis. Verification is done through Nyquist criteria Fs>= 2Fm.
